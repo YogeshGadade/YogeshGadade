@@ -1,5 +1,5 @@
 ### Hi there 👋
-Seasoned data solutions developer with 5+ years' experience delivering end-to-end AI, ML, BI innovations aligned to business goals. Recognized for discipline, focused approach, adaptability, resourcefulness, and loyalty with keen commercial awareness.
+Passionate about solving real-world problems using data science.
 
 #### Education:
 - Master of Science in Data Science, Stevens Institute of Technology, Hoboken, NJ, USA 
