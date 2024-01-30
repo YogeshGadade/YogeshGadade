@@ -1,4 +1,9 @@
 ### Hi there 👋
+Seasoned data solutions developer with 5+ years' experience delivering end-to-end AI, ML, BI innovations aligned to business goals. Recognized for discipline, focused approach, adaptability, resourcefulness, and loyalty with keen commercial awareness.
+
+#### Education:
+Master of Science in Data Science, Stevens Institute of Technology, Hoboken, NJ, USA 
+Bachelor of Engineering in Information Technology, University of Pune, Pune, MH, India
 
 <!--
 **YogeshGadade/YogeshGadade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
