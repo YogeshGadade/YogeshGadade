@@ -1,5 +1,5 @@
 ### Hi there 👋
-Passionate about solving real-world problems using data science.
+Welcome to my GitHub repo. My name is Yogesh. I am passionate about solving real-world problems using data science. I am learning to improve my skills in data science, statistics, and programming by implementing projects to solve problems. This repo aims to share my exploration work and code to benefit others by providing references. I wish you all the best in your data exploration journey. 
 
 #### Education:
 - Master of Science in Data Science, Stevens Institute of Technology, Hoboken, NJ, USA 
